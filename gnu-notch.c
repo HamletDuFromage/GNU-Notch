@@ -133,6 +133,7 @@ int main(int argc, char **argv)
     cairo_t *cr;
     Window overlay;
 
+    printf("Press any key to dismiss the notch...");
     int offset = 0;
     for (int i = 0; i < arguments.screens_number; i++)
     {
