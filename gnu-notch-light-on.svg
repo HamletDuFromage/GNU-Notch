@@ -1,0 +1,63 @@
+
+
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 543 94'>
+   <defs>
+      <radialGradient id='radial-gradient' cx='424' cy='452.15' r='11.56' gradientTransform='matrix(1 0 0 1.08 -90 -462.32)' gradientUnits='userSpaceOnUse'>
+         <stop offset='0' stop-color='#00ff34'/>
+         <stop offset='.2' stop-color='#00fc33' stop-opacity='.99'/>
+         <stop offset='.34' stop-color='#00f332' stop-opacity='.95'/>
+         <stop offset='.45' stop-color='#00e42f' stop-opacity='.9'/>
+         <stop offset='.55' stop-color='#00cf2a' stop-opacity='.81'/>
+         <stop offset='.65' stop-color='#00b325' stop-opacity='.7'/>
+         <stop offset='.74' stop-color='#00911e' stop-opacity='.57'/>
+         <stop offset='.83' stop-color='#006915' stop-opacity='.41'/>
+         <stop offset='.91' stop-color='#003a0c' stop-opacity='.23'/>
+         <stop offset='.99' stop-color='#000601' stop-opacity='.02'/>
+         <stop offset='1' stop-opacity='0'/>
+      </radialGradient>
+      <radialGradient id='radial-gradient-2' cx='271.25' cy='27.25' r='20.75' gradientUnits='userSpaceOnUse'>
+         <stop offset='0' stop-color='#1d1d1d'/>
+         <stop offset='.62' stop-color='#1d1d1d' stop-opacity='.94'/>
+         <stop offset='.84' stop-color='#1d1d1d' stop-opacity='.7'/>
+         <stop offset='1' stop-color='#1d1d1d' stop-opacity='.3'/>
+      </radialGradient>
+      <radialGradient id='radial-gradient-3' cx='271.5' cy='27.5' r='6.5' gradientUnits='userSpaceOnUse'>
+         <stop offset='0' stop-color='#101f25'/>
+         <stop offset='.55' stop-color='#0f1d23' stop-opacity='.95'/>
+         <stop offset='.75' stop-color='#0c181c' stop-opacity='.77'/>
+         <stop offset='.89' stop-color='#070e11' stop-opacity='.45'/>
+         <stop offset='1' stop-opacity='0'/>
+      </radialGradient>
+      <radialGradient id='radial-gradient-4' cx='361.11' cy='452.15' r='3.02' gradientTransform='matrix(1.13 0 0 .67 -135.75 -276.93)' gradientUnits='userSpaceOnUse'>
+         <stop offset='0' stop-color='#c1c4de' stop-opacity='.5'/>
+         <stop offset='.21' stop-color='#bbbed7' stop-opacity='.48'/>
+         <stop offset='.4' stop-color='#a8abc1' stop-opacity='.44'/>
+         <stop offset='.57' stop-color='#898b9d' stop-opacity='.35'/>
+         <stop offset='.75' stop-color='#5c5e6a' stop-opacity='.24'/>
+         <stop offset='.91' stop-color='#242429' stop-opacity='.09'/>
+         <stop offset='1' stop-opacity='0'/>
+      </radialGradient>
+      <radialGradient id='radial-gradient-5' cx='362' cy='455.75' r='3.02' gradientTransform='matrix(1.13 0 0 .8 -135.75 -335.6)' gradientUnits='userSpaceOnUse'>
+         <stop offset='0' stop-color='#c1c4de' stop-opacity='.5'/>
+         <stop offset='.16' stop-color='#b1b4cc' stop-opacity='.46'/>
+         <stop offset='.42' stop-color='#86889a' stop-opacity='.35'/>
+         <stop offset='.74' stop-color='#40414a' stop-opacity='.17'/>
+         <stop offset='1' stop-opacity='0'/>
+      </radialGradient>
+      <style> .cls-1{fill:none;stroke:#000;stroke-miterlimit:10} </style>
+   </defs>
+   <g id='Layer_2' data-name='Layer 2'>
+      <rect x='.5' y='.5' width='542' height='93' rx='30.24' ry='30.24'/>
+      <path d='M602.26 431A29.77 29.77 0 0 1 632 460.74v32.52A29.77 29.77 0 0 1 602.26 523H120.74A29.77 29.77 0 0 1 91 493.26v-32.52A29.77 29.77 0 0 1 120.74 431h481.52m0-1H120.74A30.74 30.74 0 0 0 90 460.74v32.52A30.74 30.74 0 0 0 120.74 524h481.52A30.74 30.74 0 0 0 633 493.26v-32.52A30.74 30.74 0 0 0 602.26 430Z' transform='translate(-90 -430)'/>
+      <path d='M.5.5h542v34H.5z'/>
+      <path d='M632 431v33H91v-33h541m1-1H90v35h543v-35Z' transform='translate(-90 -430)'/>
+   </g>
+   <circle cx='334' cy='26' r='12' style='fill:url(#radial-gradient)' id='Layer_5' data-name='Layer 5'/>
+   <circle cx='271.25' cy='27.25' r='20.75' style='fill:url(#radial-gradient-2)' id='Layer_4' data-name='Layer 4'/>
+   <circle cx='271.5' cy='27.5' r='6.5' style='fill:url(#radial-gradient-3)' id='Layer_6' data-name='Layer 6'/>
+   <g id='Layer_7' data-name='Layer 7'>
+      <ellipse cx='270.5' cy='24.5' rx='4.5' ry='2.5' style='fill:url(#radial-gradient-4);opacity:.2'/>
+      <ellipse cx='271.5' cy='29' rx='4.5' ry='3' style='fill:url(#radial-gradient-5);opacity:.2'/>
+   </g>
+</svg>
+
