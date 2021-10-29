@@ -15,7 +15,7 @@ gnu-notch -l [light on (0/1)] -w [screen width] (-w [screen width]) -r [ratio fo
 Example:
 
 ```
-./gnu-notch -r 100.4 -w 1920 -w 1920 -l 1
+./gnu-notch -r 0.4 -w 1920 -w 1920 -l 1
 ```
 
 ## Screenshots
